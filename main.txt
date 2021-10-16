@@ -1,0 +1,12 @@
+GitHub, Inc.
+is a provider of Internet hosting for software development and version control
+using Git. It offers the distributed version control
+and source code management functionality of Git, plus its own features.
+
+founded: 2008
+ceo: Nat firedman (29 oct 2018-)
+written in: Ruby; ECMAscript; Go; C
+Users: 56 million (sep 2020)
+Parent organization: Microsoft corporation
+Founders: Tom Preston-Werner, Chiris Wanstrath, 
+Scott Chacon, P.J. Hyett.
